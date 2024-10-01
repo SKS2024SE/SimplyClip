@@ -258,9 +258,9 @@ Users can download the list of  copied items as a document file or CSV file. The
 ## :handshake: Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/EZ7051"><img src="https://avatars.githubusercontent.com/u/35006207?v=4" width="75px;" alt=""/><br /><sub><b>Krithika Swaminathan</b></sub></a></td>
-    <td align="center"><a href="https://github.com/shyni0201"><img src="https://avatars.githubusercontent.com/u/72161297?v=4" width="75px;" alt=""/><br /><sub><b>Sandhiya Shunmughavel</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sumalatha-99"><img src="https://avatars.githubusercontent.com/u/26276595?v=4" width="75px;" alt=""/><br /><sub><b>Sanjaey Shunmuga Sundaram</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Ks-Weasley"><img src="https://avatars.githubusercontent.com/u/52708614?v=4" width="75px;" alt=""/><br /><sub><b>Krithika Swaminathan</b></sub></a></td>
+    <td align="center"><a href="https://github.com/SandhiyaS24"><img src="https://avatars.githubusercontent.com/u/179258890?v=4" width="75px;" alt=""/><br /><sub><b>Sandhiya Shunmughavel</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Sanjaeyss"><img src="https://avatars.githubusercontent.com/u/179258698?v=4" width="75px;" alt=""/><br /><sub><b>Sanjaey Shunmuga Sundaram</b></sub></a><br /></td>
   </tr>
 </table>
 
