@@ -2,33 +2,33 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10211680.svg)](https://zenodo.org/records/10211680)
 
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m789313708-ea25af592e8a7a84c009055e)
-<a href="https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/LICENSE" target="blank">
+<a href="https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/EZ7051/SimplyClip?style=flat-square" alt="SimplyClip license" />
-[![GitHub Release](https://img.shields.io/badge/release-v5.1-blue)](https://github.com/EZ7051/SimplyClip)
-![GitHub language count](https://img.shields.io/github/languages/count/EZ7051/SimplyClip)
+[![GitHub Release](https://img.shields.io/badge/release-v5.1-blue)](https://github.com/SKS2024SE/SimplyClip)
+![GitHub language count](https://img.shields.io/github/languages/count/SKS2024SE/SimplyClip)
 ![Test Cases](https://img.shields.io/badge/tests-passing-green)
-![GitHub contributors](https://img.shields.io/github/contributors/EZ7051/SimplyClip)
-[![GitHub-size](https://img.shields.io/github/languages/code-size/EZ7051/SimplyClip)](https://github.com/EZ7051/SimplyClip)
-[![Coverage Status](https://img.shields.io/badge/code%20coverage-100%25-brightgreen)](https://github.com/EZ7051/SimplyClip#-testcase-coverage)
-<a href="https://github.com/EZ7051/SimplyClip/forks" target="blank">
-<img src="https://img.shields.io/github/forks/EZ7051/SimplyClip?style=flat-square" alt="SimplyClip forks"/>
+![GitHub contributors](https://img.shields.io/github/contributors/SKS2024SE/SimplyClip)
+[![GitHub-size](https://img.shields.io/github/languages/code-size/SKS2024SE/SimplyClip)](https://github.com/SKS2024SE/SimplyClip)
+[![Coverage Status](https://img.shields.io/badge/code%20coverage-100%25-brightgreen)](https://github.com/SKS2024SE/SimplyClip#-testcase-coverage)
+<a href="https://github.com/SKS2024SE/SimplyClip/forks" target="blank">
+<img src="https://img.shields.io/github/forks/SKS2024SE/SimplyClip?style=flat-square" alt="SimplyClip forks"/>
 </a>
-<a href="https://github.com/EZ7051/SimplyClip/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/EZ7051/SimplyClip?style=flat-square" alt="SimplyClip stars"/>
+<a href="https://github.com/SKS2024SE/SimplyClip/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/SKS2024SE/SimplyClip?style=flat-square" alt="SimplyClip stars"/>
 </a>
-<a href="https://github.com/EZ7051/SimplyClip/issues" target="blank">
-<img src="https://img.shields.io/github/issues/EZ7051/SimplyClip?style=flat-square" alt="SimplyClip issues"/>
+<a href="https://github.com/SKS2024SE/SimplyClip/issues" target="blank">
+<img src="https://img.shields.io/github/issues/SKS2024SE/SimplyClip?style=flat-square" alt="SimplyClip issues"/>
 </a>
-<a href="https://github.com/EZ7051/SimplyClip/issues?q=is%3Aissue+is%3Aclosed" target="blank">
-<img src="https://img.shields.io/github/issues-closed/EZ7051/SimplyClip" alt="SimplyClip issues closed"/>
+<a href="https://github.com/SKS2024SE/SimplyClip/issues?q=is%3Aissue+is%3Aclosed" target="blank">
+<img src="https://img.shields.io/github/issues-closed/SKS2024SE/SimplyClip" alt="SimplyClip issues closed"/>
 </a>
-<a href="https://github.com/EZ7051/SimplyClip/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/EZ7051/SimplyClip?style=flat-square" alt="SimplyClip pull-requests"/>
+<a href="https://github.com/SKS2024SE/SimplyClip/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/SKS2024SE/SimplyClip?style=flat-square" alt="SimplyClip pull-requests"/>
 </a>
-<a href="https://github.com/EZ7051/SimplyClip/graphs/commit-activity" alt="commit activity">
-<img src="https://img.shields.io/github/commit-activity/w/EZ7051/SimplyClip" /></a> 
-<a href="https://img.shields.io/github/repo-size/EZ7051/SimplyClip" alt="repo size">
-<img src="https://img.shields.io/github/repo-size/EZ7051/SimplyClip" /></a>
+<a href="https://github.com/SKS2024SE/SimplyClip/graphs/commit-activity" alt="commit activity">
+<img src="https://img.shields.io/github/commit-activity/w/SKS2024SE/SimplyClip" /></a> 
+<a href="https://img.shields.io/github/repo-size/SKS2024SE/SimplyClip" alt="repo size">
+<img src="https://img.shields.io/github/repo-size/SKS2024SE/SimplyClip" /></a>
 
 ### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;:paperclips: &emsp;  Clipboard Made Easy For Research &emsp; :paperclips:
 
@@ -43,7 +43,7 @@
 ---
 
  
-&emsp; &emsp; &emsp; &emsp; &emsp;  ![](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/images/SimplyClip_title.jpeg)
+&emsp; &emsp; &emsp; &emsp; &emsp;  ![](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/images/SimplyClip_title.jpeg)
 
 ---
 # Description
@@ -135,10 +135,10 @@ https://user-images.githubusercontent.com/66715000/139998327-13eff7db-3375-4a1b-
  
 ## :shipit: Developers Note
 Basic knowledge of **JavaScript**, **HTML** ,**CSS** should be good enough to contribute to the project
-- [**popup.js**](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/popup.js)
-- [**popup.html**](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/popup.html)
-- [**popup.css**](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/popup.css)
-- [**content.js**](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/content.js)
+- [**popup.js**](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/popup.js)
+- [**popup.html**](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/popup.html)
+- [**popup.css**](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/popup.css)
+- [**content.js**](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/content.js)
 
 These are the only 4 files you will be working on and rest all are just configuration and documentation files. <br><br>
 We will be more than happy to help you extend the functionality of this extension. <br>
@@ -148,7 +148,7 @@ We will be more than happy to help you extend the functionality of this extensio
 All you need is Google Chrome! 🕺
 
 1.  Get the repsitory using any of the below two methords :
-    - Download :arrow_down: the ***[repository](https://github.com/EZ7051/SimplyClip)*** using Code > Download Zip on our project github page.
+    - Download :arrow_down: the ***[repository](https://github.com/SKS2024SE/SimplyClip)*** using Code > Download Zip on our project github page.
     - Clone the reporitory using  ***[GIT](https://git-scm.com)*** 
     ```
     https://github.com/EZ7051/SimplyClip
@@ -156,9 +156,9 @@ All you need is Google Chrome! 🕺
 1. Manually install Entension using below steps.
     - Enable the developer mode from Chrome > Settings > extension.
     - Click on ***load Unpacked*** button and select the root folder of this repository.
-![Extension](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/Docs/images/Extensions.png)
+![Extension](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/Docs/images/Extensions.png)
     - Enable the chrome extension. <br/>
-![Extension](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/images/SimplyClip_title.jpeg)
+![Extension](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/images/SimplyClip_title.jpeg)
 
 ---
 ## 📦 IDE and Packages
@@ -200,13 +200,13 @@ prettier --write and prettier --check are the most common ways to run Prettier
   4. Then there is a check to make sure that the copied text exists in the SimplyClip extension.
 - Run `npm run test` to run the selenium automated tests.<br>
 
-![Extension](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/Project3/Docs/images/Checks1.png)
+![Extension](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/Project3/Docs/images/Checks1.png)
 - Run `npm run instanbul-coverage` to check the code coverage.<br>
 
-![Extension](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/Project3/Docs/images/TestReport.png)
+![Extension](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/Project3/Docs/images/TestReport.png)
 
 - Run citationTest1.py for Citation Unit Test.<br>
-![Extension](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/Project3/Docs/images/CitationUnitTest.png)
+![Extension](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/Project3/Docs/images/CitationUnitTest.png)
 
 
 ## :desktop_computer: Functional Descriptions
@@ -224,82 +224,54 @@ Users can download the list of  copied items as a document file or CSV file. The
 2) When loading the extension for the first time, reload the pages in order to allow the URLs to prompt for permissions to access the system clipboard.
 3) If none of the above steps work, consider reloading the extension and all the browser pages.
 4) If the issue still persists, please consider writing us at simlyclipse43@gmail.com and we will get back to you as soon as possible.
-5) You're also free to report a bug in our repository and clearly stating the issue that you're facing. Please make sure to follow the guidelines mentioned in [CONTRIBUTING.md](https://github.com/EZ7051/SimplyClip/blob/Group3DeveloperBranch/Project3/Contributing.md)
+5) You're also free to report a bug in our repository and clearly stating the issue that you're facing. Please make sure to follow the guidelines mentioned in [CONTRIBUTING.md](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/Project3/Contributing.md)
 
 ---
- 
-## :railway_track: Roadmap
- 
-### Phase 1:
 
-- [x] Implemented the UI for chrome
+### Current Version:
+
 - [x] Integrate the chrome storage API to store and process copied text
 - [x] Tooltip implementation for the text copied to the clipboard
 - [x] Implementing copying functionality from clipboard to anywhere on the PC
 - [x] Editing the item on the Clipboard
-
-
-### Phase 2
-
-- [x] Brand new interactive UI
 - [x] Search across the copied text items
-- [x] Disable the extension with a toggle
 - [x] Website from which the text is copied is maintained and stored
-- [x] Old and new version of text is stored when text Is edited
-- [x] Export the copied content to DOC file
-- [x] Delete all copied items
-- [x] Add new item to the list
-- [x] Expand text area in edit mode
-
-### Phase 3 : Successful Functional Improvements in SimplyClip4.0:
-
 - [x] Summarise text items from the list 
 - [x] Sorting text items based on priority
 - [x] Merging similar text items from the list
 - [x] Dark Mode
-- [x] Expanding text area while searching
 - [x] Export the copied content to CSV and DOC file
 - [x] Export the summarised content to DOC file
 - [x] Can label the copied texts into URLs and YouTube videos.
 - [x] Can access the YouTube video directly from the clipboard.
 - [x] Give the word count of copied text in the text box.
-
-
-### Phase 4 : Successful Functional Improvements in Simplyclip5.0:
-
-- [x] Successful implementation of summarization feature
-- [x] Domain Entity for similar content by colour coding them
 - [x] Successful implementation of Citation fetching
-- [x] Fixed youtube icon issue in previous version
-- [x] Fixed url issues from previous versions
-- [x] Improved test cases
 
-### Future Enhancements:
-
-- [ ] Highlight important text box in the clipboard
-- [ ] Better training  data for Summarizer 
-- [ ] Copy image to clipboard
+### Our version: 
+- [ ] Create categorization of copied texts as Notes.
+- [ ] Download categorized notes. 
+- [ ] Maintain and Download source list for each Note. 
+- [ ] Provide Citation in standard formats like APA, MLA and, Chicago.
+- [ ] Download Citation file separately. 
  
 ---
 ## :handshake: Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/EZ7051"><img src="https://avatars.githubusercontent.com/u/35006207?v=4" width="75px;" alt=""/><br /><sub><b>Ejaz</b></sub></a></td>
-    <td align="center"><a href="https://github.com/shyni0201"><img src="https://avatars.githubusercontent.com/u/72161297?v=4" width="75px;" alt=""/><br /><sub><b>Shynitha</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sumalatha-99"><img src="https://avatars.githubusercontent.com/u/26276595?v=4" width="75px;" alt=""/><br /><sub><b>Sumalatha</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/soubhagya31"><img src="https://avatars.githubusercontent.com/u/143368827?v=4" width="75px;" alt=""/><br /><sub><b>Soubhagya</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/EZ7051"><img src="https://avatars.githubusercontent.com/u/35006207?v=4" width="75px;" alt=""/><br /><sub><b>Krithika Swaminathan</b></sub></a></td>
+    <td align="center"><a href="https://github.com/shyni0201"><img src="https://avatars.githubusercontent.com/u/72161297?v=4" width="75px;" alt=""/><br /><sub><b>Sandhiya Shunmughavel</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sumalatha-99"><img src="https://avatars.githubusercontent.com/u/26276595?v=4" width="75px;" alt=""/><br /><sub><b>Sanjaey Shunmuga Sundaram</b></sub></a><br /></td>
   </tr>
 </table>
 
 | Name                   | Unity ID                           |
 |------------------------|------------------------------------|
-| Ejaz Ahamed Shaik      | eshaik                             |
-| Shynitha Muthyam       | smuthya                            |
-| Sumalatha Mashetty     | smashet                            |
-| Soubhagya Akkena       | sakkena                            |
+| Krithika Swaminathan   | kswamin3                           |
+| Sandhiya Shunmugavel   | sshunmu2                           |
+| Sanjaey Sundaram       | sshunmu                            |
 
 ## 🙏 Acknowledgements <a name="Acknowledgement"></a>
-We would like to thank Professor Dr Timothy Menzies for helping us understand the process of building a good Software Engineering project. We would also like to thank the teaching assistants San Gilson, Andre Lustosa, Xueqi (Sherry) Yang, Yasitha Rajapaksha, and Rahul Yedida for their support throughout the project.
+We would like to thank Professor Dr Timothy Menzies for helping us understand the process of building a good Software Engineering project. 
 
 *** If you have any further queries, contact us on the above emails. Enjoy using SimplyClip! ***
 
