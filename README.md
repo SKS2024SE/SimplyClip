@@ -198,6 +198,11 @@ prettier --write and prettier --check are the most common ways to run Prettier
   2. It then browses to 'google.com' and searches for a specific keyword.
   3. The first link is clicked and the text on the results page is copied.
   4. Then there is a check to make sure that the copied text exists in the SimplyClip extension.
+  5. Copied text is placed in the current selected Note.
+  6. Text can be changed from one note to another.
+  7. Notes can be downloaded both in DOC and CSV format.
+  8. Associated websites can be downloaded in DOC format.
+  9. Citations can be downloaded in DOC format in the specified citation style.
 - Run `npm run test` to run the selenium automated tests.<br>
 
 ![Extension](https://github.com/SKS2024SE/SimplyClip/blob/Group3DeveloperBranch/Project3/Docs/images/Checks1.png)
